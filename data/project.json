@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "barbaraboschy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269574462?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "barbaraboschy",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-19T21:28:54.740Z",
-    "updated_at": "2026-03-19T21:28:54.740Z"
-  }
+    "updated_at": "2026-03-19T21:28:54.740Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "625e088a-a9fb-4f72-ae91-619d27972b01": {
+      "content": [],
+      "created_at": "2026-03-19T21:28:54.761Z",
+      "created_by": "barbaraboschy",
+      "title": "Taller DiTella",
+      "updated_at": "2026-03-19T21:28:54.761Z",
+      "updated_by": "barbaraboschy",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "625e088a-a9fb-4f72-ae91-619d27972b01"
+  ]
 }
